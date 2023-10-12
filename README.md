@@ -1,5 +1,5 @@
-# Welcome to my Github! Here I have a data exploration project using data on shopping trends from Kaggle. I wanted to know if this data would predict purchasing trends between genders, if certain age groups prefer one method of payment over others and does delivery method increase purchasing?  Let me know what you think!
+# Welcome to my Github! Here I have a data exploration project using data on shopping trends from Kaggle.  Let me know what you think!
 
-Through the creation of pivot tables and charts to construct a dashboard I uncovered shopping trends between genders and generations.
+I wanted to know if this data would predict purchasing trends between genders, if certain age groups prefer one method of payment over others and does delivery method increase purchasing? 
 
-This dataset was used from Kaggle.com and the link is provided here: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset
+Through the creation of pivot tables and charts to construct a dashboard I uncovered shopping trends between genders and generations. This dataset was used from Kaggle.com and the link is provided here: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset
