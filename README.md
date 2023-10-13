@@ -13,9 +13,6 @@ Questions I wanted to answer:
 
 Through the creation of pivot tables and charts to construct a dashboard I uncovered shopping trends between genders and generations. This dataset was used from Kaggle.com and the link is provided here: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset
 
-
-
-
 ## Insights 
 
 
@@ -29,7 +26,6 @@ Whether a women had a subscription or not, on average women spent more than men.
 #### Card or Cash?
 
 ![Age](https://github.com/Alex-57Soto/Excel-Shopping-Dashboard/blob/main/2nd.JPG)
-
 
 
 
