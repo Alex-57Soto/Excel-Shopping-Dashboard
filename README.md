@@ -17,11 +17,11 @@ Through the creation of pivot tables and charts to construct a dashboard I uncov
 
 
 #### Men vs Women
-It is typical to believe that women spend more while shopping than men but I wanted to find out if data supported this idea. By the creation of a pivot table to sythesize male and female average shopping totals one could see that women did in fact spend more than men on average. To uncover other angles of this I added the subscription column to my pivot then generated the following bar chart. 
+
 
 ![1st Graph](https://github.com/Alex-57Soto/Excel-Shopping-Dashboard/blob/main/1st.JPG)
 
-Whether a women had a subscription or not, on average women spent more than men. The data supports this as women spent $60.25 on average without a subscription and men spent $59.57 without a subscription and $59.49 with one. This analysis concluded that women on average still spent more than men regardless of subscription status or not. 
+
 
 #### Card or Cash?
 
