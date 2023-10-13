@@ -48,7 +48,7 @@ Add...
 
 ## Dashboard
 
-![Dashboard](https://github.com/Alex-57Soto/Excel-Shopping-Dashboard/blob/main/dash.JPG)
+![Dashboard](https://github.com/Alex-57Soto/Excel-Shopping-Dashboard/blob/main/das2.JPG)
 
 Lastly above is my interactive dashboard which allows users to see how these charts will change when certain filters are applied such as age brackets, location and season. Feel free to download my excel file to try it yourself!
 
