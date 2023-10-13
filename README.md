@@ -26,13 +26,20 @@ It is typical to believe that women spend more while shopping than men but I wan
 
 Whether a women had a subscription or not, on average women spent more than men. The data supports this as women spent $60.25 on average without a subscription and men spent $59.57 without a subscription and $59.49 with one. This analysis concluded that women on average still spent more than men regardless of subscription status or not. 
 
+#### Card or Cash?
+
+![Age](https://github.com/Alex-57Soto/Excel-Shopping-Dashboard/blob/main/2nd.JPG)
 
 
 
+
+#### Amazone Prime Same Day Delivery?
+
+![Shipping](https://github.com/Alex-57Soto/Excel-Shopping-Dashboard/blob/main/3rd.JPG)
 
 ## Conclusions
 
-
+Add...
 
 
 
