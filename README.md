@@ -39,7 +39,7 @@ This analysis showed me that not only does each age bracket prefer their own pay
 
 Above is a bar chart that displays the preference of shipping method and average purchases made by men and women. This analysis was actually fun to do since I did not have any assumptions going into this as it could tilt either way. Say if one was to look at the 2-Day shipping they would conclude that men will purchase more than women but if it was a store pickup then women purchased more. I enjoyed how the different methods showed men prefer a certain shipping method over others and so do women. What is even more interesting is how close the two genders are when express shipping was an option. Women on average spent $60.51 while men spent $60.46. These numbers are very close and I wonder what further analyses can be done to understand why.
 
-## Conclusions
+## Recommendations
 
 Add...
 
