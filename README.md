@@ -27,6 +27,10 @@ Whether a women had a subscription or not, on average women spent more than men.
 
 ![Age](https://github.com/Alex-57Soto/Excel-Shopping-Dashboard/blob/main/2nd.JPG)
 
+Above is my analysis of finding out if different age brackets preferred a method of payment over others. Here I wanted to create a logical test within excel to break down the ages of each shopper into categories. Using the below IF statement I created the following categories, adult (18-31), middle age (31-55) and senior (55+) then named this new column Age Brackets.
+
+![IFStatement](https://github.com/Alex-57Soto/Excel-Shopping-Dashboard/blob/main/code.JPG)
+
 
 
 #### Amazone Prime Same Day Delivery?
