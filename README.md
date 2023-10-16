@@ -18,8 +18,9 @@ Through the creation of pivot tables and charts to construct a dashboard I uncov
 
 #### Men vs Women
 
+It is typical to believed women will spend more than men on shopping but through this analysis it was proven otherwise. Men spent more money than women and I took this one step further to see if certain seasons meant the genders spent more below is a bar chart with my findings. Here it is shown that Women spent more during the Fall season while Men spent more during the winter season. 
 
-![1st Graph](https://github.com/Alex-57Soto/Excel-Shopping-Dashboard/blob/main/1st.JPG)
+![1st Graph](https://github.com/Alex-57Soto/Excel-Shopping-Dashboard/blob/main/1stgraph2.JPG)
 
 
 
@@ -48,7 +49,7 @@ Add...
 
 ## Dashboard
 
-![Dashboard](https://github.com/Alex-57Soto/Excel-Shopping-Dashboard/blob/main/das2.JPG)
+![Dashboard](https://github.com/Alex-57Soto/Excel-Shopping-Dashboard/blob/main/finaldash.JPG)
 
 Lastly above is my interactive dashboard which allows users to see how these charts will change when certain filters are applied such as age brackets, location and season. Feel free to download my excel file to try it yourself!
 
