@@ -7,7 +7,8 @@
 Welcome to my Project! Here I have a data exploration project using data on shopping trends from Kaggle.  Let me know what you think!
 
 Questions I wanted to answer:
-- Do genders prefer a certain color based on the season?
+
+- Do genders prefer a certain season to shop?
 - Does age play a factor in method of payment preferred? 
 - Does delivery method increase purchasing? 
 
